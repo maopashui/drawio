@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T06:05:31.852Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="mSoPPJFeT6kJHuZUrjBN" version="20.4.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-10-16T07:40:11.614Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="9ux6RJaQMiRRXvncUBgj" version="20.4.1" type="github" pages="7">
   <diagram id="PL7l88rr5Bz20sRamCOs" name="MySQL-HA">
     <mxGraphModel dx="782" dy="464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="xSt_UpSUUgdosustcqvM-14" value="master" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#6E98AF;" parent="1" vertex="1">
           <mxGeometry x="469" y="930" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xSt_UpSUUgdosustcqvM-16" value="backup" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#CCE8F6;" parent="1" vertex="1">
+        <mxCell id="xSt_UpSUUgdosustcqvM-16" value="slave" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#CCE8F6;" parent="1" vertex="1">
           <mxGeometry x="612" y="930" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xSt_UpSUUgdosustcqvM-17" value="&lt;p style=&quot;font-size: 32px;&quot;&gt;HA&lt;/p&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;glass=0;fillStyle=auto;rotation=0;fontSize=32;" parent="1" vertex="1">
